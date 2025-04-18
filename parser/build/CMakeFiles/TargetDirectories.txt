@@ -1,0 +1,3 @@
+/home/pur4ik/Desktop/buevg_parse/build/CMakeFiles/parse.dir
+/home/pur4ik/Desktop/buevg_parse/build/CMakeFiles/edit_cache.dir
+/home/pur4ik/Desktop/buevg_parse/build/CMakeFiles/rebuild_cache.dir

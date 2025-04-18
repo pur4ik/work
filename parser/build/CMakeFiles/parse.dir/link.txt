@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/parse.dir/main.cpp.o CMakeFiles/parse.dir/buev.cpp.o -o parse
