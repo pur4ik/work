@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bp.dir/main.cpp.o CMakeFiles/bp.dir/uart.cpp.o CMakeFiles/bp.dir/utils.cpp.o CMakeFiles/bp.dir/bp.cpp.o -o bp

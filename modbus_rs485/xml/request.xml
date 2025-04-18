@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body urn="00000200:1">
+<queryStateVariable>
+                             <POWER_GENERATOR/>
+                            <U_GENERATOR/>
+                            <U_WINDING_GENERATOR/>
+                             <I_WINDING_GENERATOR/>
+                             <SPEED_BY_GENERATOR/>
+                             <GENERATOR_SHAFT_ROTATION_SPEED/>
+                             <U_110/>
+                             <I_110/>
+                             <I_BATTERY/>
+                             <BATTERY_CHARGE_STAGE/>
+                             <BATTERY_VOLTAGE/>
+                             <TEMP_BATTERY/>
+                            <STATUS/>
+                             <RCH/>
+                             <RMT_Z/>
+                             <RMT_R/>
+                             <BATTERY_CIRCUIT_BREAKAGE/>
+                             <RPN1/>
+                             <RPN2/>
+                             <TYPE_AKK/>
+                             <TYPE_GEN/>
+                             </queryStateVariable>
+                            </body>

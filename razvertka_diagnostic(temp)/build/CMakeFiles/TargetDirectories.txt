@@ -1,0 +1,3 @@
+/home/pur4ik/Desktop/razvertka_diagnostic/build/CMakeFiles/razvertka_diagnostics.dir
+/home/pur4ik/Desktop/razvertka_diagnostic/build/CMakeFiles/edit_cache.dir
+/home/pur4ik/Desktop/razvertka_diagnostic/build/CMakeFiles/rebuild_cache.dir

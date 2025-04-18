@@ -1,0 +1,8 @@
+BasedOnStyle: LLVM  # Базовый стиль (например, LLVM, Google, Chromium, Mozilla, WebKit)
+IndentWidth: 4      # Количество пробелов для отступов
+TabWidth: 4         # Ширина табуляции
+UseTab: Never       # Использовать пробелы вместо табуляции
+ColumnLimit: 180    # Максимальная длина строки
+BreakBeforeBraces: Attach  # Расположение фигурных скобок
+AllowShortIfStatementsOnASingleLine: false # "if" на одной строке
+SpacesBeforeTrailingComments: 1 # Количество пробелов перед комментариями

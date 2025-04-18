@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/voltmetr.dir/main.cpp.o CMakeFiles/voltmetr.dir/myvisa.cpp.o CMakeFiles/voltmetr.dir/mm.cpp.o -o voltmetr  /usr/lib/x86_64-linux-gnu/libvisa.so -ldl

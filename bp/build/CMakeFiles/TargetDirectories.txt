@@ -1,0 +1,3 @@
+/home/pur4ik/Desktop/psi/bp/build/CMakeFiles/bp.dir
+/home/pur4ik/Desktop/psi/bp/build/CMakeFiles/edit_cache.dir
+/home/pur4ik/Desktop/psi/bp/build/CMakeFiles/rebuild_cache.dir

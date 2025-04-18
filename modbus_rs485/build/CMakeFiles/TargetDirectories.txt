@@ -1,0 +1,6 @@
+/home/pur4ik/Desktop/psi/modbus_rs485/build/CMakeFiles/modbus_rs485.dir
+/home/pur4ik/Desktop/psi/modbus_rs485/build/CMakeFiles/copy-fonts.dir
+/home/pur4ik/Desktop/psi/modbus_rs485/build/CMakeFiles/copy-scenarios.dir
+/home/pur4ik/Desktop/psi/modbus_rs485/build/CMakeFiles/CopyXMLFiles.dir
+/home/pur4ik/Desktop/psi/modbus_rs485/build/CMakeFiles/edit_cache.dir
+/home/pur4ik/Desktop/psi/modbus_rs485/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/upvs.dir/src/main.cpp.o CMakeFiles/upvs.dir/src/data.cpp.o CMakeFiles/upvs.dir/src/netcat.cpp.o CMakeFiles/upvs.dir/src/upvs.cpp.o CMakeFiles/upvs.dir/src/utils.cpp.o -o upvs

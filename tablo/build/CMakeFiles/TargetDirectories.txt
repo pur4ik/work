@@ -1,0 +1,3 @@
+/home/pur4ik/Desktop/in work/build/CMakeFiles/tablo.dir
+/home/pur4ik/Desktop/in work/build/CMakeFiles/edit_cache.dir
+/home/pur4ik/Desktop/in work/build/CMakeFiles/rebuild_cache.dir

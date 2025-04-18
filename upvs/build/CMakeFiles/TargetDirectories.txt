@@ -1,0 +1,4 @@
+/home/pur4ik/Desktop/psi/upvs/build/CMakeFiles/CopyXMLFiles.dir
+/home/pur4ik/Desktop/psi/upvs/build/CMakeFiles/upvs.dir
+/home/pur4ik/Desktop/psi/upvs/build/CMakeFiles/edit_cache.dir
+/home/pur4ik/Desktop/psi/upvs/build/CMakeFiles/rebuild_cache.dir
